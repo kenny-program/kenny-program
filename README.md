@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have 2 cats and I am allergic to them.
+- ⚡ Fun fact: I have 3 cats and I am allergic to them.
 
 <!---
 kenny-program/kenny-program is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
